@@ -1,2 +1,2 @@
 # Web-Scrapping
-Data retrieving using BeautifulSoup and Python
+Data retrieving from Web pages using BeautifulSoup and Python.
